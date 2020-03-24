@@ -7,9 +7,12 @@ Usando as tecnologias Nodejs, React e ReactNative
 
 ## Back-end
 - nodejs (Motor V8 para aplicações de backend)
-  - express (Para criar uma API)
-##### node index.js
+  - express (rotas)
+  - nodemon
+  - knex
+  - sqlite3
+  ##### npm start
 
 ## Front-end
 - React
-##### npm start
+  ##### npm start
