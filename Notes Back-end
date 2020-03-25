@@ -1,0 +1,27 @@
+/**
+* Rotas / Recursos
+*/
+
+/**
+* Métodos HTTP:
+* 
+* GET: Buscar uma informação no back-end
+* POST: Criar uma informação no back-end
+* PUT: Alterar uma informação no back-end
+* DELETE: Deletar uma informação no back-end
+*/
+
+/**
+* Tipos de parâmetros:
+*
+* Query Params: Parêmetros nomeados envidos na rota após '?' (filtros, paginação)
+* Route Params: Parêmetros utilizados para identificar recursos
+* Rquest Body: Corpo da requisição, utilizado para criar ou alterar recrursos
+*/
+
+/**
+* Tipo de Banco de Dados:
+*
+* SQL
+* NoSQL
+*/

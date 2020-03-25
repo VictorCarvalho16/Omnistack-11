@@ -15,4 +15,7 @@ Usando as tecnologias Nodejs, React e ReactNative
 
 ## Front-end
 - React
+  - react-icons
+  - react-router-dom
+  - axios
   ##### npm start
