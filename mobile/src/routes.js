@@ -10,10 +10,10 @@ import Detail from './pages/Detail'
 export default function Routes() {
     return (
         <NavigationContainer>
-            <AppStack.navigator screenOption={{ headerShown: false }}>
-                <AppStack.Screen name="Incident" component={Incidents} />
+            <AppStack.Navigator screenOptions={{ headerShown: false }}>
+                <AppStack.Screen name="Incidents" component={Incidents} />
                 <AppStack.Screen name="Detail" component={Detail} />
-            </AppStack.navigator>
+            </AppStack.Navigator>
         </NavigationContainer>
     )
 }

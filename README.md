@@ -21,7 +21,10 @@ Usando as tecnologias Nodejs, React e ReactNative
   ##### npm start
 
 ## Front-end
-- ReactNative
+- ReactNative / expo
   - React Navigation
     - Hello React Navigation
+  - expo constants
+  - expo mail composer
+  - axios
   ##### npm start
