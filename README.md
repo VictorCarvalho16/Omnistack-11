@@ -11,6 +11,8 @@ Usando as tecnologias Nodejs, React e ReactNative
   - nodemon
   - knex
   - sqlite3
+  - celebrate
+  - cross-env
   ##### npm start
 
 ## Front-end

@@ -1,0 +1,16 @@
+[ ] Adicionar a validação no backend
+[ ] Adicionar Testes
+
+- Deploys
+  [ ] heroku Node.js
+  [ ] netlify React
+  [ ] Gerar APK
+
+- Oque estudar?
+  - Padrões de código ESLint, Prettier
+  - Autenticação JWT
+  - Styled Components
+
+- Fazer um Post no LinkedIn 
+
+R$ 1980,00 só dia 30/03/2020
