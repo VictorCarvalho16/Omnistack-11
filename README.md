@@ -12,7 +12,10 @@ Usando as tecnologias Nodejs, React e ReactNative
   - knex
   - sqlite3
   - celebrate
-  - cross-env
+  - testes
+    - jest
+    - supertest
+    - cross-env
   ##### npm start
 
 ## Front-end
