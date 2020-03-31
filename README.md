@@ -17,6 +17,7 @@ Usando as tecnologias Nodejs, React e ReactNative
     - supertest
     - cross-env
   ##### npm start
+  #### Aplicação on ar: https://be-the-hero-backend-11.herokuapp.com/
 
 ## Front-end
 - React
@@ -24,8 +25,9 @@ Usando as tecnologias Nodejs, React e ReactNative
   - react-router-dom
   - axios
   ##### npm start
+  #### Aplicação on ar: https://be-the-hero-fontend.herokuapp.com/
 
-## Front-end
+## Mobile
 - ReactNative / expo
   - React Navigation
     - Hello React Navigation
@@ -33,3 +35,4 @@ Usando as tecnologias Nodejs, React e ReactNative
   - expo mail composer
   - axios
   ##### npm start
+  #### Download APK:https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40victorcarvalho16/bethehero-30ccfe37cf074810ba4bf1389cddc00d-signed.apk
